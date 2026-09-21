@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=160&section=header&text=Carlos%20Alejandro%20Perez&fontSize=40&fontColor=ffffff&fontAlignY=42&desc=Principal%20Engineer%20%E2%80%94%20Cloud%20Security%20%7C%20Platform%20%7C%20SRE%20%7C%20AI%2FML&descSize=15&descColor=58a6ff&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=160&section=header&text=Carlos%20Alejandro%20Perez&fontSize=40&fontColor=ffffff&fontAlignY=42&desc=Principal%20Engineer%20%E2%80%94%20Cloud%20Security%20%7C%20GenAI%20%7C%20Platform%20%7C%20SRE%20%7C%20FinOps&descSize=15&descColor=58a6ff&descAlignY=62" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=Cloud+Security+Engineer+%7C+11%2B+years+in+production;AWS+%7C+Zero+Trust+%7C+IAM+%7C+CSPM+%7C+Secrets+Management;Platform+Engineering+%7C+Kubernetes+%7C+Terraform+%7C+GitHub+Actions;SRE+%7C+Incident+Commander+%7C+SLO%2FSLI+%7C+FinOps;MLOps+%7C+AI%2FML+Infrastructure+%7C+Data+Pipelines" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=Cloud+Security+Engineer+%7C+11%2B+years+in+production;AWS+%7C+Zero+Trust+%7C+IAM+%7C+CSPM+%7C+Secrets+Management;GenAI+Security+%7C+Agentic+AI+%7C+LLM+%7C+RAG+%7C+Model+Security;Platform+Engineering+%7C+Kubernetes+%7C+Terraform+%7C+GitHub+Actions;SRE+%7C+Incident+Commander+%7C+SLO%2FSLI+%7C+FinOps" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -18,21 +18,23 @@
 
 ## About
 
-Principal/Staff+ Engineer with 11+ years building and operating production systems at scale. I work across **cloud security**, **distributed systems**, **platform engineering**, **SRE**, **FinOps**, and **AI/ML infrastructure** — not sequentially, but simultaneously.
+Senior Principal/Staff+ Engineer with 11+ years operating production systems across regulated financial services, insurance, media, and tech. I work across **cloud security**, **GenAI/Agentic AI**, **distributed systems**, **platform engineering**, **SRE**, **FinOps**, and **AI/ML** — simultaneously, not sequentially.
 
-I own end-to-end delivery: architecture and threat modeling, implementation, CI/CD, observability, incident command, and cost optimization. Current focus is open-source security tooling for AWS environments built to production standards — 5 rules, 21 tests, 0 lint errors, GitHub Actions CI on every repo.
+I own end-to-end delivery across 8 layers: infrastructure, network, platform, application, identity, data, observability and cost. Current focus includes securing GenAI and Agentic AI workloads — LLMs, RAG pipelines, model inference, agent execution and tool access — alongside CSPM, IAM hardening, secrets lifecycle, supply chain controls, and open-source security tooling for AWS environments.
 
 ---
 
 ## Tech Stack
 
 ```
-Cloud      AWS (IAM · S3 · EC2 · Lambda · CloudTrail · Secrets Manager · SG) · Azure · GCP
-Security   Zero Trust · IAM Hardening · CSPM · Secrets Management · SIEM · CVE Triage
-Platform   Docker · Kubernetes · Helm · Terraform · ArgoCD · GitHub Actions
-SRE        Prometheus · Grafana · PagerDuty · Incident Command · SLO/SLI · Error Budgets
-AI/ML      Python · PyTorch · MLflow · Airflow · Feature Stores · Model Serving
-Lang       Python · Go · TypeScript · Bash · gRPC · Kafka
+Cloud        AWS (IAM · S3 · EC2 · Lambda · CloudTrail · Secrets Manager · SG) · Azure · GCP
+Security     Zero Trust · IAM Hardening · CSPM · Secrets Management · SIEM · CVE Triage
+GenAI        LLMs · RAG · Agentic AI · Model Security · Prompt Injection · Tool Execution
+Platform     Docker · Kubernetes · Helm · Terraform · ArgoCD · GitHub Actions
+SRE          Prometheus · Grafana · PagerDuty · Incident Command · SLO/SLI · Error Budgets
+SupplyChain  SBOM · SAST · SCA · Container Scanning · Policy-as-Code · Signed Artifacts
+AI/ML        Python · PyTorch · MLflow · Airflow · Feature Stores · Model Serving
+Lang         Python · Go · TypeScript · Bash · gRPC · Kafka
 ```
 
 ---
@@ -45,6 +47,13 @@ Lang       Python · Go · TypeScript · Bash · gRPC · Kafka
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+**GenAI & AI/ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 **Platform & DevOps**
 
@@ -154,7 +163,7 @@ S3 configuration auditor. Checks public ACL exposure, missing SSE encryption, ve
 </picture>
 
 <p align="center">
-  <sub>Cloud Security · AWS Security · DevSecOps · Site Reliability Engineering · Platform Engineering · FinOps · Zero Trust · IAM · CSPM · SIEM · MLOps · Kubernetes · Terraform · Infrastructure as Code · Observability · Cost Optimization · Incident Management · Distributed Systems · Microservices · CI/CD</sub>
+  <sub>Cloud Security · AWS Security · DevSecOps · GenAI Security · Agentic AI · LLM Security · RAG · Model Security · Prompt Injection · Site Reliability Engineering · Platform Engineering · FinOps · Zero Trust · IAM · CSPM · SIEM · Supply Chain Security · SBOM · SAST · SCA · MLOps · Kubernetes · Terraform · Infrastructure as Code · Observability · Cost Optimization · Incident Management · Distributed Systems · Microservices · CI/CD · Financial Services Security · Regulated Environments</sub>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=80&section=footer" width="100%"/>
